@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>homework03</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="Accept_all_cookie">
+        <p>By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. </p>
+        <div class="cooking_setting">
+            <span><u>Cookie Setting</u></span> 
+            <button id="Accept_button">Accept All Cookies</button>
+        </div>
+    </div>
+    <div class="use_cookies">
+        <span><img src="C:\Users\User\Desktop\homework\cursorhomework03\image 11 (1).png"/></span>
+        <p>We use cookies to enhance your user experience. By continuing to visit this site you agree to <u>our use of cookies.</u></p>
+        <span><img src="C:\Users\User\Desktop\homework\cursorhomework03\image 10.png"/></span>
+    </div>
+    <div class="cookies_policies">
+        <span id="img"><img src="C:\Users\User\Desktop\homework\cursorhomework03\Vector.png"/></span>
+        <p id="text">We use cookies to ensure that we give you the best experience on our website. Read cookies policies.</p>
+        <div class="decline_allow">
+            <button id="Decline">Decline</button> 
+            <button id="Allow">Allow</button>
+        </div>
+    </div>
+    <div class="uses_cookies">
+        <p>App uses cookies to personalize your experience on our website. By continuing to use this site, you agree to our cookie policy.</p>
+        <button id="Okay">Okay</button>
+    </div>
+    <div class="Cookie_Notice">
+        <h3>🍪 Cookie Notice</h3>
+        <p>We use cookies to learn how you interact with our content, and show you relevant content and ads based on your browsing history. You can adjust your settings below. Here’s our <u>policy</u></p>
+        <div class="preferences">
+            <p>Manage your preferences</p>
+            <button id="Accept">Accept</button>
+        </div>
+    </div>
+    <div class="Cookie_settings">
+        <h3>🍪 Cookie settings</h3>
+        <p id="own_cookies">We use our own cookies so that we can show you this website and understand how you use them to improve the services we offer</p>
+        <div class="manage_all">
+            <button id="Manage_cookies">Manage cookies</button>
+            <button id="accept_all">Accept all</button>
+        </div>
+    </div>
+    <div class="Cookies">
+        <h2>Cookies</h2>
+        <p id="ensure">We use cookies to ensure that we give you the best experience on our website.</p>
+        <button id="accept_cookies">Accept</button>
+    </div>
+    <div class="Privacy">
+        <p>We care about your data, and we'd love to use cookies to make your experience better.</p>
+        <div class="Privacy_Policy">
+            <p id="Privacy">Privacy Policy</p>
+            <button id="accept_privacy">Accept</button>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,238 @@
+body {
+    background-color: rgb(192, 190, 190);}
+    .Accept_all_cookie{
+        display: inline-flex;
+        width: 1140px;
+        padding: 16px 120px;
+        margin: 10px;
+        color: #FFF;
+        background-color: #0B2239;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+    }
+        .cooking_setting{
+            display: inline-flex;
+            padding: 16px;
+            width: 270px;
+            margin-left: 10px;
+        }
+            span{
+                color: #4AD295;
+                font-size: 12px;
+            }
+            #Accept_button{
+                background-color: #4AD295;
+                padding: 8px 10px;
+                margin-left: 10px;
+                color: #FFFFFF;
+                font-size: 12px;
+                border: 0;
+                border-radius: 2px;
+            }  
+    .use_cookies{
+        display: inline-flex;
+        width: 780px;
+        padding: 10px 300px;
+        margin: 10px;
+        background: #2B2627;
+        color: #FFF;   
+        font-size: 13px;
+        font-family: 'Roboto', sans-serif;   
+    }
+        span{
+            margin: 10px;
+        }
+    .cookies_policies{
+        display: inline-flex;
+        margin-left: 10px;
+        background-color: white;
+        width: 560px;
+        border-radius: 16px;
+        color: #0D0C22;
+        font-family: 'Roboto', sans-serif; 
+        font-size: 14px;
+    }
+        #text{
+            margin-left: 10px;
+        }
+        #img{
+            background-color: #EA4C891A;
+            border-radius: 8px;
+            padding: 8px;
+            margin: 12px;
+        }
+        .decline_allow{
+            display: inline-flex;
+            padding: 15px 20px;
+        }
+            #Decline{
+                font-size: 12px;
+                font-family:'Roboto', sans-serif;
+                border: 0;
+                border-radius: 8px;
+                padding: 4px 10px;
+                background-color: #0D0C220D;
+                color: #0D0C22;
+            }
+            #Allow{
+                font-size: 12px;
+                font-family:'Roboto', sans-serif;
+                border: 0;
+                border-radius: 8px;
+                padding: 4px 10px;
+                margin-left: 10px;
+                background-color: #EA4C89;
+                color: white;
+            }
+        
+    .uses_cookies {
+        display: inline-flex;
+        font-family:'Roboto', sans-serif; 
+        background-color: #26262B;
+        width: 540px;
+        margin: 10px;
+        border-radius: 10px;
+        font-size: 12px;
+        padding: 8px 12px;
+        color: white;
+    }
+        #Okay{
+            font-family:'Roboto', sans-serif;
+            margin-left: 2px;
+            margin: 10px;
+            padding: 8px;
+            border-radius: 8px;
+            border: 0;
+            background-color: #FFFFFF;
+            color: #26262B;
+        }
+    .Cookie_Notice{
+        display: inline-block;
+        font-family:'Roboto', sans-serif;
+        font-size: 14px;
+        background-color: #1C2540F2;
+        width: 340px;
+        border-radius: 6px;
+        color: #FFFFFF;
+        padding: 20px;
+        margin-left: 10px;
+    }
+        h3{
+        font-size: 16px;
+        }
+        .preferences {
+            display: inline-flex;
+            color: white;
+            width: 320px;
+            font-size: 14px; 
+        }
+        #Accept{
+            color: #FFFFFF;
+            border-radius: 6px;
+            margin: 10px;
+            margin-left: 60px;
+            border: 0;
+            padding: 8px 20px;
+            background-color: #09B3AF;
+            font-size: 14px;   
+        }
+    .Cookie_settings{
+        display: inline-block;
+        background-color: #FFFFFF;
+        font-family: 'Roboto', sans-serif;
+        width: 340px;
+        border-radius: 16px;
+        font-size: 14px;
+        color: #0F181D;
+        padding: 16px;
+        margin-left: 10px;
+    }
+        #own_cookies{
+            color: #687F8C;
+            font-size: 14px;
+        }
+        .manage_all{
+            display: inline-flex;
+            margin-top: 10px;
+        }
+        #Manage_cookies{
+            padding: 8px;
+            width: 160px;
+            background-color: #EAF0F4;
+            color: #687F8C;
+            border: 0;
+            border-radius: 6px;
+        }
+        #accept_all{
+            padding: 8px;
+            width: 160px;
+            background-color: #40C1A7;
+            color: white;
+            border: 0;
+            border-radius: 6px;
+            margin-left: 8px;
+        }
+    .Cookies{
+        display: inline-block;
+        width: 290px;
+        font-family: 'Roboto', sans-serif;
+        background-color:#FFFFFF;
+        color: #15295A;
+        text-align: center;
+        padding: 20px;
+        font-size: 18px;
+        border-radius: 20px;
+        margin-left: 10px;
+    }       
+        h2{
+            font-weight: 900;
+        }
+        #ensure{
+            font-size: 16px;
+            width: 240px;
+            margin-left: 30px;
+            font-weight: lighter;
+            }
+        #accept_cookies {
+            width: 121px;
+            padding: 10px 32px;
+            border-radius: 43px;
+            background-color: #4A7EFF;
+            font-size: 16px;
+            color: #FFFFFF;
+            margin: 10px;
+            border: 0;
+        }
+    .Privacy{
+        display: inline-block;
+        background-color: #FFFFFF;
+        color: #000000;
+        font-family: 'Roboto', sans-serif;
+        width: 310px;
+        padding: 16px;
+        border-radius: 4px;
+        font-size: 14px;
+        margin: 10px;
+    }
+        .Privacy_Policy{
+            display: inline-flex;
+            font-family: 'Roboto', sans-serif;
+            width: 288px;
+            font-size: 14px;
+        }
+            #Privacy{
+                width: 260px;
+                font-size: 14px;
+                color: #6666FF;
+            }
+            #accept_privacy{
+                width: 60px;
+                background-color: #6666FF;
+                color: white;
+                border-radius: 4px;
+                padding: 8px;
+                font-size: 14px;
+                border: 0;
+                margin: 10px;
+            }
+    
